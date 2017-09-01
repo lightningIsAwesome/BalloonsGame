@@ -1,0 +1,65 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7470M (ID=0x6760)
+    Vendor:   ATI
+    VRAM:     1012 MB
+    Driver:   8.901.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UNITY\Projects\Balloons\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\UNITY\Projects\Balloons\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\UNITY\Projects\Balloons\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.032 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.217576 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.655801 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.334950 ms (FindLiveObjects: 0.027523 ms CreateObjectMapping: 0.019126 ms MarkObjects: 0.282701 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.866298 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.395129 ms (FindLiveObjects: 0.062045 ms CreateObjectMapping: 0.042918 ms MarkObjects: 0.223455 ms  DeleteObjects: 0.064377 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.468836 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.403526 ms (FindLiveObjects: 0.067176 ms CreateObjectMapping: 0.044317 ms MarkObjects: 0.285500 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.524817 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.300895 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.015861 ms MarkObjects: 0.206194 ms  DeleteObjects: 0.047116 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456707 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.378334 ms (FindLiveObjects: 0.066243 ms CreateObjectMapping: 0.055980 ms MarkObjects: 0.249579 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.485164 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.289699 ms (FindLiveObjects: 0.031722 ms CreateObjectMapping: 0.016327 ms MarkObjects: 0.197797 ms  DeleteObjects: 0.043384 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1890 -> priority: 1 
